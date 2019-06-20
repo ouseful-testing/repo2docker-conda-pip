@@ -1,1 +1,1 @@
- python -c "import pandas;"
+ #python -c "import pandas;"
